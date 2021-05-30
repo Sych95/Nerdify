@@ -337,7 +337,7 @@ outline: 1px solid black;
 }
 
 .terms {
-  background-image: url('/png/terms-bg.png');
+  background-image: url('png/terms-bg.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -453,7 +453,7 @@ margin-bottom: 48px;
   width: 48px;
   height: 48px;
   background-color: #007A5C;
-  background-image: url('/svg/play.svg');
+  background-image: url('svg/play.svg');
   background-repeat: no-repeat;
   background-position: center center;
 }
